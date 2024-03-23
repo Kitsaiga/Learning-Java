@@ -1,0 +1,32 @@
+public class Main
+{
+    //1. Add new student
+    //2. Update student 
+    //3. Display info based on id
+    //4. Display all students info
+    //5. Remove a student based on their ID.
+    //6. Exit the program.
+    //7. Add something interesting
+    char i = 0;
+    String[] names = String[i]
+    int[] names = int[i]
+    char[] names = char[i]
+    public static void main(String[] args) {
+        System.out.println("Hello World");
+    }
+
+    public new_Student(name, id, grade){
+
+    }
+
+    public static void update_grade(id){
+
+    }
+
+    public static void student_info(id){
+
+    }
+
+    public static void Remove(id){
+
+    }
